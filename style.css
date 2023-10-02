@@ -1,0 +1,13 @@
+
+
+.flag{
+    height: 660px;
+    width: 990px;
+    background-color: 	#E30A17;
+}
+
+.flag > .crescent-star{
+    position: relative;
+    top: 165px;
+    left: 165px;
+}
